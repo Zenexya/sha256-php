@@ -6,6 +6,6 @@ if($input != ''){
     echo $hashed;
 }
 else{
-    echo "Invalid request. Please use: http://localhost/?input=YOUR_TEXT_HERE";
+    echo "Invalid request. Please use: https://sha-hasher.herokuapp.com/?input=";
 }
 ?>
